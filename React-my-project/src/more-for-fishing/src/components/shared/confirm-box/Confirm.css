@@ -1,0 +1,19 @@
+.react-confirm-alert {
+
+    border: .3em solid rgb(0, 212, 255);
+    border-radius: .5rem;
+    box-shadow: 0 0 1em 0 #000;
+}
+
+.react-confirm-alert-body>h1 {
+    font-size: 1.8em;
+}
+
+.react-confirm-alert-button-group {
+    display: block !important;
+    text-align: center;
+}
+
+.react-confirm-alert-button-group button {
+    margin: 0px 5px;
+}

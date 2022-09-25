@@ -1,0 +1,14 @@
+.landing > .card-body, .container-fluid {
+    background-color: #4ebced;
+}
+
+.landing-container {
+    width: 90%;
+    margin-bottom: auto;
+    margin: 2em auto 1rem;
+    padding: .5em;
+    border: .3em solid rgb(0, 212, 255);
+    border-radius: .5rem;
+    box-shadow: 0 0 1em 0 #000;
+    text-align: center;
+}

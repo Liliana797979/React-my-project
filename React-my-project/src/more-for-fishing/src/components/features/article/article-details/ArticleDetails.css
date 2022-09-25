@@ -1,0 +1,20 @@
+#image,
+.container.article > .article-content,
+.container.article > .menu {
+    width: 80%;
+    margin: auto;
+    display: block;
+}
+
+.container.article {
+    width: 60%;
+}
+
+#comments {
+    background-color: #f0f2f5;
+}
+
+.accordion-button {
+    background-color: #4ebced !important;
+    color: #fff !important;
+}

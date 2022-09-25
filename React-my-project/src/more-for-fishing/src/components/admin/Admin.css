@@ -1,0 +1,12 @@
+.admin-container {
+    width: 60% !important;
+}
+
+.admin-container > ul {
+    padding-top: 2em;
+    padding-bottom: 1em;
+} 
+
+.list-group-item {
+    border: none;
+}
